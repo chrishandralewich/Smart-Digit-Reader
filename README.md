@@ -68,20 +68,3 @@ PyTorch Framework
 
 Houston Community College — ITAI1378
 
-
-> Make sure you scroll to the bottom and confirm everything is there.
-
----
-
-### Step 4: Save the README
-
-1. Scroll down to the bottom of the page.  
-2. In the **“Commit changes”** box:
-   - In the first line, type something like: `Finish README`  
-3. Click the green **“Commit changes”** button.
-
-Your README is now fully done for this stage.
-
----
-
-If you’d like, next we can go **step‑by‑step** to create just **one folder at a time** (for example: `docs/` and `AI_usage_log.md`) so it never feels overwhelming.

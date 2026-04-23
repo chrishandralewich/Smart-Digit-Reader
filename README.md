@@ -15,36 +15,13 @@ Achieves ~98% test accuracy
 Fast inference (<0.1s per image)
 
 Built using PyTorch and MNIST dataset
-git clone https://github.com/chrishandralewich/Smart-Digit-Reader.git
-cd Smart-Digit-Reader
-pip install -r requirements.txt
-python src/predict.py --image sample_digit.png
+
 | Metric | Value |
 | --- | --- |
 | Training Accuracy | 99% |
 | Test Accuracy | 98% |
 | Inference Time |  |
-SmartDigitReader/
-│
-├── notebooks/
-│   └── train_model.ipynb
-│
-├── src/
-│   ├── model.py
-│   ├── predict.py
-│   └── utils.py
-│
-├── results/
-│   ├── accuracy_plot.png
-│   ├── loss_plot.png
-│   └── sample_predictions.png
-│
-├── docs/
-│   ├── presentation.pdf
-│   └── AI_usage_log.md
-│
-├── README.md
-└── requirements.txt
+
 AI Usage Log
 See docs/AI_usage_log.md for 5–10 entries describing how AI tools assisted in development.
 

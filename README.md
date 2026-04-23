@@ -20,28 +20,36 @@ It reduces manual data entry errors and demonstrates how computer vision can str
 ---
 
 ## Installation
-```bash
+
 git clone https://github.com/chrishandralewich/Smart-Digit-Reader.git
 cd Smart-Digit-Reader
 pip install -r requirements.txt
-Usage
+
+
+## Usage
+
 Run the script to test predictions on a single image:
 python src/predict.py --image path/to/your_image.png
+
+## Results
+
 | Metric | Value |
 | --- | --- |
 | Training Accuracy | 99% |
 | Test Accuracy | 98% |
 | Inference Time | <0.1s |
-Demo Video
-📹 
-Repository Structure
-Planned structure for this project:
+
+## Demo Video
+
+📹 (Link will be added after recording)
+
+## Repository Structure
+Final project structure:
 Smart-Digit-Reader/
 │
 ├── src/
 │   ├── model.py
 │   ├── predict.py
-│   └── utils.py        # (optional helpers)
 │
 ├── results/
 │   ├── accuracy_plot.png
@@ -55,13 +63,16 @@ Smart-Digit-Reader/
 ├── README.md
 └── requirements.txt
 
-AI Usage Log
+## AI Usage Log
+
 See docs/AI_usage_log.md for 5–10 short entries describing how AI tools were used during this project.
 
-License
+## License
+
 MIT License — free for educational and research use.
 
-Acknowledgments
+## Acknowledgments
+
 MNIST Dataset (LeCun et al.)
 
 PyTorch Framework

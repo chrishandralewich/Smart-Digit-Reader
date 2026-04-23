@@ -33,7 +33,7 @@ python src/predict.py --image path/to/your_image.png
 | Test Accuracy | 98% |
 | Inference Time | <0.1s |
 Demo Video
-📹 Demo video link will be added here after recording the 3–5 minute system demo.
+📹 
 Repository Structure
 Planned structure for this project:
 Smart-Digit-Reader/

@@ -46,7 +46,9 @@ test_image = "path/to/your_image.png"
 
 ## Demo Video
 
-📹 (Link will be added after recording)
+📹 ## Demo Video
+📹 [Included with submission]
+
 
 ## Repository Structure
 Final project structure:

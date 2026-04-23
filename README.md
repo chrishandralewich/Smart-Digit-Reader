@@ -29,7 +29,12 @@ pip install -r requirements.txt
 ## Usage
 
 Run the script to test predictions on a single image:
-python src/predict.py --image path/to/your_image.png
+python src/predict.py
+By default, the script loads the model and runs a prediction on the sample image defined inside predict.py.
+
+To test a different image, update the test_image variable inside the script:
+test_image = "path/to/your_image.png"
+
 
 ## Results
 
